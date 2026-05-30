@@ -1,68 +1,99 @@
-# 🛡️ Rithika U
+```
+██████╗ ██╗████████╗██╗  ██╗██╗██╗  ██╗ █████╗
+██╔══██╗██║╚══██╔══╝██║  ██║██║██║ ██╔╝██╔══██╗
+██████╔╝██║   ██║   ███████║██║█████╔╝ ███████║
+██╔══██╗██║   ██║   ██╔══██║██║██╔═██╗ ██╔══██║
+██║  ██║██║   ██║   ██║  ██║██║██║  ██╗██║  ██║
+╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-> *Building security tools. Breaking assumptions. Learning relentlessly.*
-
----
-
-## 👩‍💻 About Me
-
-* 🔐 Cybersecurity learner (hands-on)
-* ⚙️ Building tools in Kali Linux
-* 🧠 Focused on networking & security fundamentals
-* 🎯 Goal: Become a skilled ethical hacker
-
----
-
-## 🚀 Featured Project
-
-### 🛡️ RIVI SHIELD - Network Port Scanner
-
-🔗 https://github.com/rithisingh2020/Network-port-scanner
-
-* ⚡ Multi-threaded scanning
-* 🔍 Service detection
-* 🎯 Custom port ranges
-* 🧠 Input validation
+```bash
+$ whoami
+> Rithika U | Cybersecurity Engineer | Chennai, India
+> Status: Breaking things ethically. Building secure tools.
+$ cat mission.txt
+> Detect. Defend. Disrupt.
+```
 
 ---
 
-## 🧰 Tech Stack
+## 🖥️ `cat /etc/skills.conf`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+```ini
+[OFFENSE]
+tools     = Nmap | Burp Suite | Metasploit | SQLMap | Hydra
+platforms = TryHackMe | HackTheBox | PortSwigger
+certs     = Cisco Ethical Hacker | Fortinet FCF/FCA | Google SecOps
 
----
+[DEFENSE]
+siem      = Wazuh | Splunk | Google SecOps
+lab       = Active Directory Home Lab | Windows Event Logs
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rithisingh2020\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rithisingh2020\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rithisingh2020\&theme=tokyo-night)
+[DEV]
+languages = Python | JavaScript | TypeScript | Bash | PowerShell
+stack     = Next.js | Tailwind CSS | Docker | Azure | Google Cloud
+```
 
 ---
 
-## 🧠 Current Focus
+## 🔍 `ls ~/projects/`
 
-* 🔍 Building security tools
-* 🛡️ Learning penetration testing
-* ⚡ Improving automation scripts
-
----
-
-## 📫 Contact
-
-* 📧 [rithika.ujjalsingh@gmail.com](mailto:rithisingh2020@gmail.com)
+| 🔧 Tool | 📄 Description | 🛠️ Stack |
+|--------|---------------|---------|
+| 🛡️ [Shield Pro](https://github.com/rithisingh2020/Shield-pro) | Chrome XSS & Phishing Detector | JS, Manifest V3 |
+| 📡 [Network IDS](https://github.com/rithisingh2020/network-ids) | WSN Intrusion Detection System | Python, Scapy |
+| 🔒 [File Integrity Monitor](https://github.com/rithisingh2020/file-integrity-checker) | SHA-256 Forensic Audit Tool | Python, SQLite |
+| 🤖 [Maayon AI](https://github.com/rithisingh2020/Maayon-AI) | AI-Powered Pen-Test Assistant | Next.js, OpenAI |
+| 🔎 [Port Scanner](https://github.com/rithisingh2020/networkport-scanner) | Threaded Recon Utility | Python, Nmap |
 
 ---
 
-## ⚠️ Disclaimer
+## 🏆 `cat /var/log/certs.log`
 
-All tools are built strictly for **educational and authorized testing only**.
+![Cisco](https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=flat-square&logo=cisco)
+![Cisco](https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=flat-square&logo=cisco)
+![Fortinet](https://img.shields.io/badge/Fortinet-FCF%20%7C%20FCA-EE3124?style=flat-square&logo=fortinet)
+![Google](https://img.shields.io/badge/Google-SecOps-4285F4?style=flat-square&logo=google)
+![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-054ADA?style=flat-square&logo=ibm)
+![IIT](https://img.shields.io/badge/IIT%20Madras-Ethical%20Hacking-orange?style=flat-square)
+
+---
+
+## 📊 `./github-stats.sh`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithisingh2020&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithisingh2020&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rithisingh2020&theme=matrix&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+
+---
+
+## 🧠 `tail -f /var/log/learning.log`
+
+[IN PROGRESS] Wazuh SIEM Monitoring Lab.................. ⣿⣿⣿⣿⣿⣦░░ 70%
+[IN PROGRESS] TryHackMe Jr. Penetration Tester........... ⣿⣿⣿⣿⣿⣿░░ 75%
+[COMPLETED]   HackTheBox Starting Point.................. ⣿⣿⣿⣿⣿⣿⣿ 100%
+[LEARNING]    Bug Bounty — HackerOne & Bugcrowd.......... ⣿⣿⣿░░░░░░ 40%
+[COMPLETED]   PortSwigger SQLi, XSS, CSRF, Auth Labs..... ⣿⣿⣿⣿⣿⣿⣿ 100%
+
+---
+
+## 📡 `netstat --connect-with-me`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithikasingh2626)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rithisingh2020)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/rithika-u.ad84195d)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithika.ujjalsingh@gmail.com)
+
+---
+
+<div align="center">
+
+[ SYSTEM STATUS: ONLINE ] [ THREAT LEVEL: HUNTING ] [ MODE: LEARNING ]
+"The quieter you become, the more you can hear." — Kali Linux
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rithisingh2020&color=00ff00&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
