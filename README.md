@@ -43,9 +43,11 @@ stack     = Next.js | Tailwind CSS | Docker | Azure | Google Cloud
 | 🛡️ [Shield Pro](https://github.com/rithisingh2020/Shield-pro) | Chrome XSS & Phishing Detector | JS, Manifest V3 |
 | 📡 [Network IDS](https://github.com/rithisingh2020/network-ids) | WSN Intrusion Detection System | Python, Scapy |
 | 🔒 [File Integrity Monitor](https://github.com/rithisingh2020/file-integrity-checker) | SHA-256 Forensic Audit Tool | Python, SQLite |
-| 🤖 [Maayon AI](https://github.com/rithisingh2020/Maayon-AI) | AI-Powered Pen-Test Assistant | Next.js, OpenAI |
-| 🔎 [Port Scanner](https://github.com/rithisingh2020/networkport-scanner) | Threaded Recon Utility | Python, Nmap |
-
+| 🤖 [Maayon AI](https://github.com/rithisingh2020/Maayon-AI) | AI-Powered Pen-Test Assistant | Next.js, OpenAI API |
+| 🔎 [Network Port Scanner](https://github.com/rithisingh2020/Network-port-scanner) | Threaded Recon Utility | Python, Nmap, Threading |
+| 🕷️ [Web Vulnerability Scanner](https://github.com/rithisingh2020/Web-vulnerability-scanner) | Web App Vuln Detection Tool | Python |
+| 🔑 [Password Security Lab](https://github.com/rithisingh2020/password-security-lab) | Password Strength & Hash Analysis Lab | Python |
+| 📚 [Assignments CApD](https://github.com/rithisingh2020/Assignments-CApD) | Coursework & Practice Assignments | Various |
 ---
 
 ## 🏆 `cat /var/log/certs.log`
