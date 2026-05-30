@@ -114,7 +114,7 @@ stack     =  Next.js | Tailwind CSS | Docker | Azure | Google Cloud | Kali Linux
 ## 🧠 Learning Progress
 
 ```
-[COMPLETED]   PhishShield Pro Chrome Extension          ████████████  100%
+[COMPLETED]   PhishShield Pro Chrome Extension         ████████████  100%
 [COMPLETED]   PortSwigger SQLi, XSS, CSRF, Auth Labs   ████████████  100%
 [COMPLETED]   HackTheBox Starting Point                ████████████  100%
 [COMPLETED]   Active Directory Home Lab Setup          ████████████  100%
